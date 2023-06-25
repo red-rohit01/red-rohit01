@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<p align="left">🔭 I’m currently working on CP,DSA and WebD.<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Data Structure and Algorithm and Web Tech Stacks<br>📫 How to reach me : rr42041@gmail.com<br>⚡ Fun fact I'm funny.</p>
+<p align="left">👷 I'm doing my bachelor's with specialisation in Information Technology from National Institute of Technology,Raipur<br>🔭 I’m currently working on CP,DSA and WebD.<br>🌱 I’m currently learning ReactJS<br>🤔 I’m looking for help on how to excel in Competitive Programming<br>💬 Ask me about Data Structure and Algorithm and Web Tech Stacks<br>📫 How to reach me : rr42041@gmail.com<br>⚡ Fun fact I'm funny.</p>
 
 ###
 
