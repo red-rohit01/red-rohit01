@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="linkedin.com/in/rohit-kumar-77173a22a" target="_blank">
+  <a href="https://www.linkedin.com/in/rohit-kumar-77173a22a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bnoomfqwhqducuhkc52xrzw%3d%3d" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<p align="left">👷 I'm doing my bachelor's with specialisation in Information Technology from National Institute of Technology,Raipur<br>🔭 I’m currently working on CP,DSA and WebD.<br>🌱 I’m currently learning ReactJS<br>🤔 I’m looking for help on how to excel in Competitive Programming<br>💬 Ask me about Data Structure and Algorithm and Web Tech Stacks<br>📫 How to reach me : rr42041@gmail.com<br>⚡ Fun fact I'm funny.</p>
+<p align="left">🔭 I’m currently working on CP,DSA and WebD.<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Data Structure and Algorithm and Web Tech Stacks<br>🤔 I’m looking for help on how to excel in Competitive Programming<br>📫 How to reach me : rr42041@gmail.com<br>⚡ Fun fact I'm funny.</p>
 
 ###
 
@@ -89,7 +89,7 @@
 ###
 
 <div align="left">
-  <a href="linkedin.com/in/rohit-kumar-77173a22a" target="_blank">
+  <a href="https://www.linkedin.com/in/rohit-kumar-77173a22a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bnoomfqwhqducuhkc52xrzw%3d%3d" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="rr42041@gmail.com" target="_blank">
